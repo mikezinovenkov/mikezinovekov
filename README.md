@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with ML algorithms and Data analysis<br>🌱 I’m currently learning statistics and Neural networks
+🔭 Working with ML algorithms and Data analysis<br>🌱 Learning statistics and Neural networks
 
 
 # 💻 Tech Stack:
